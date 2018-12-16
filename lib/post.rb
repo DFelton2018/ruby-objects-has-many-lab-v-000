@@ -15,8 +15,8 @@ class Post
   
   def author
   
-  def artist_name
-    if artist != nil
+  def author_name
+    if author != nil
       self.artist.name
     else
       return nil

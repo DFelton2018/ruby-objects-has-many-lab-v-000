@@ -12,6 +12,7 @@ class Author
     @@posts
   end
   
-  def add_posts(name)
+  def add_posts(post)
+    
   
 end
